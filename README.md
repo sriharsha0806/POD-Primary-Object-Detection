@@ -60,6 +60,7 @@ The models developed lead to discovering the bounding boxes of the primary objec
     getModelsRBP.py script is used to implement the model generation and iterations but I failed to obtain 
     any optimized recurrence weights.
     
+NOTE: I have not included the Proposals.npy as file is more than 100 MB.
 
 
     
